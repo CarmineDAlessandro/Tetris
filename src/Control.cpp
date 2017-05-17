@@ -1,8 +1,5 @@
 #include "Control.h"
 
-#include <Model.h>
-#include <View.h>
-
 #include <windows.h>
 #include <GL/glut.h>
 

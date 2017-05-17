@@ -516,7 +516,7 @@ bool Game::generatePiece () {
         map[1][4] = 'Q';
         map[1][5] = 'Q';
 
-        currentPiece = 'S';
+        currentPiece = 'Q';
 
         break;
     case Z:

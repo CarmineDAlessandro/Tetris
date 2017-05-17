@@ -1,8 +1,6 @@
 #include "View.h"
 
 #include <string.h>
-#include <string>
-using namespace std;
 
 #include <Model.h>
 

@@ -1,11 +1,10 @@
 # depslib dependency file v1.0
-1495031198 source:c:\users\utente\desktop\progetticomputergraphics\tetris\main.cpp
+1495031269 source:c:\users\utente\desktop\progetticomputergraphics\tetris\main.cpp
 	<stdlib.h>
 	<time.h>
 	<Model.h>
 	<Control.h>
 	<View.h>
-	<stdio.h>
 
 1301114762 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
